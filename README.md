@@ -1,10 +1,10 @@
 # Find Longest Word Length
 
-**Author Name**: Your Name  
-**Index Number**: BAT/IT/2022/P/02  
+**Author Name**: M.Akeel
+**Index Number**: BAT/IT/2022/P/73  
 
 ## Project Description
-This project counts the number of even and odd elements in an integer array.
+This project finds longest word length in sentence.
 
 ## How to Compile and Run
 1. Open a terminal.
